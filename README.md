@@ -10,7 +10,7 @@
 
 ### 🧠 About me
 
-Software Engineer with 4+ years of expertise in backend systems, data platforms, and cloud infrastructure. I build end-to-end solutions across the full stack—from REST APIs and scalable backends to ETL pipelines and streaming platforms. I'm driven by creating production-grade systems that connect application logic with data infrastructure and drive meaningful impact
+Software Engineer with 4+ years of experience in backend systems, data platforms, and cloud infrastructure. I build end-to-end solutions across the full stack—from REST APIs and scalable backends to ETL pipelines and streaming platforms. I'm driven by creating production-grade systems that connect application logic with data infrastructure and drive meaningful impact
 
 ---
 
