@@ -57,11 +57,3 @@ Software Engineer with 4+ years of expertise in backend systems, data platforms,
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=erdisonmalko&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
